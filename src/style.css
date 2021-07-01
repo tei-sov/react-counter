@@ -1,0 +1,11 @@
+.firstbox {
+  display: flex;
+  background-color: aqua;
+  flex-wrap: wrap;
+}
+
+.secondbox {
+  display: flex;
+  flex-wrap: wrap;
+  background-color: aqua;
+}
